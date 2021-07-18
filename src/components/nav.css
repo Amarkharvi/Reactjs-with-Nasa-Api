@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+
+*{
+    margin: auto;
+   
+}
+
+#nav-bg{
+    background-color: #160c2c;
+}
+
+#logo{
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    font-size: 2rem;
+}
+
+#search{
+justify-content: center;
+}
+
+#searchbtn{
+margin-left: 1em;
+}
